@@ -215,3 +215,7 @@ fun main() {
     println("\nThank you for exploring MindVerse.")
     exitProcess(0)
 }
+#OUTPUTS
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2dd45d58-6dad-4aa9-bca2-ca194981998b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41560e31-d1da-41fa-bbe7-0f2a78e613f4" />
+
